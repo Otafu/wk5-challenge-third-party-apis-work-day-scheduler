@@ -1,11 +1,6 @@
 
 ## wk4-challenge-web-apis-code-quiz: Code Quiz
 
-1. [ Description. ](#desc)
-2. [ Web Address. ](#web-address)
-
-
-<a name="desc"></a>
 ## 1. Description
 
 
@@ -16,8 +11,6 @@ Desktop screen:
 
 ![Top-Page-Area](./assets/images/main.PNG?raw=true "mainPage")
 
-
-<a name="web-address"></a>
 ## 2. How to Get There
 
 ### Open your favorite web browser and enter the following web address to access.
