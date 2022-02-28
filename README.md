@@ -1,5 +1,6 @@
 
-## wk4-challenge-web-apis-code-quiz: Code Quiz
+## wk5-challenge-third-party-apis-work-day-scheduler
+
 
 ## 1. Description
 
@@ -10,6 +11,8 @@ It features dynamically updated HTML and CSS powered by jQuery and is using API 
 Desktop screen:
 
 ![Top-Page-Area](./assets/images/main.PNG?raw=true "mainPage")
+
+
 
 ## 2. How to Get There
 
